@@ -39,3 +39,12 @@ function point_aula01_post_forms( $atts ) {
 
 }
 
+/*
+Como usar: cole o shortcode no corpo de seu post ou página
+
+Utilizando apenas os ids com o contact form 7
+[pointwp-postforms news="92e59d3" report="6e7e87b"]
+ou
+para qualquer plugin de formulário
+[pointwp-postforms news="shortcode sem os colchetes aqui" report="shortcode sem os colchetes aqui"]
+*/
