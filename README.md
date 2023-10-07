@@ -8,6 +8,7 @@ Nesta aula desenvolvemos em PHP um shortcode que permite a exibição de formul�
 - Os visitantes podem preencher um formulário com nome e e-mail para se inscreverem em sua lista de e-mails.
 - Os usuários logados têm a opção de reportar erros nos posts do blog.
 - Integração fácil e personalizável com seu tema WordPress existente.
+- Explicação sobre tema filho
 
 ## Funcoes estudadas e aplicadas
 
@@ -32,7 +33,7 @@ Nesta aula desenvolvemos em PHP um shortcode que permite a exibição de formul�
 
 Confira o tutorial em vídeo no YouTube para aprender como configurar e utilizar este plugin:
 
-[Assistir ao Tutorial](https://www.youtube.com/watch?v=ypl0wvwbZxE)
+[Assistir ao Tutorial](https://www.youtube.com/watch?v=Dr9Z0iPNzqk)
 
 
 ## Licença
