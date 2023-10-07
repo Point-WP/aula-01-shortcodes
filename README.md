@@ -11,8 +11,9 @@ Nesta aula desenvolvemos em PHP um shortcode que permite a exibição de formul�
 
 ## Funcoes estudadas e aplicadas
 
-- do_shortcode - Cria o shortcode. https://developer.wordpress.org/reference/functions/add_shortcode/
+- add_shortcode - Cria o shortcode. https://developer.wordpress.org/reference/functions/add_shortcode/
 - is_user_logged_in - Verifica se o usuário está logado. https://developer.wordpress.org/reference/functions/is_user_logged_in/
+- do_shortcode - Esta função retorna qualquer shortcode em qualquer lugar do WP diretamente no php. https://developer.wordpress.org/reference/functions/do_shortcode/
 
 ## Como Usar
 
@@ -31,7 +32,7 @@ Nesta aula desenvolvemos em PHP um shortcode que permite a exibição de formul�
 
 Confira o tutorial em vídeo no YouTube para aprender como configurar e utilizar este plugin:
 
-[Assistir ao Tutorial](URL_DO_SEU_VIDEO_NO_YOUTUBE)
+[Assistir ao Tutorial](https://www.youtube.com/watch?v=ypl0wvwbZxE)
 
 
 ## Licença
