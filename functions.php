@@ -1,5 +1,9 @@
 <?php
-
+/* 
+*************************************************************************** 
+Cole este codigo no functions.php do seu template ativo, use um tema filho 
+*************************************************************************** 
+*/
 // Aula 01 - Shortcode
 
 add_shortcode( 'point-post-forms', 'point_aula01_post_forms' );
@@ -21,7 +25,7 @@ function point_aula01_post_forms( $atts ) {
 	}
 
 	// Descomente o bloco abaixo para usar exclisivamente com o plugin contact form 7 conforme mostrado na aula
-	// Não esqueça de neste caso informa apenas o id dos formulários
+	// Não esqueça de neste caso basta informar apenas o id dos formulários
 	/*
 	if ( $user ) {
         // Use a função wpcf7_form() para exibir o formulário do Contact Form 7
@@ -31,8 +35,7 @@ function point_aula01_post_forms( $atts ) {
         $html =  do_shortcode('[contact-form-7 id="' . $report . '" title="Formulário de Reportar Erros"]');
     }
 	*/
-	return $html;
-	
+	return $html;	
 
 }
 
