@@ -9,6 +9,11 @@ Nesta aula desenvolvemos em PHP um shortcode que permite a exibição de formul�
 - Os usuários logados têm a opção de reportar erros nos posts do blog.
 - Integração fácil e personalizável com seu tema WordPress existente.
 
+## Funcoes estudadas e aplicadas
+
+- do_shortcode - Cria o shortcode.
+- is_user_logged_in - Verifica se o usuário está logado.
+
 ## Como Usar
 
 1. Siga estas etapas para adicionar a funcionalidade ao seu tema filho do WordPress:
@@ -18,6 +23,8 @@ Nesta aula desenvolvemos em PHP um shortcode que permite a exibição de formul�
 3. Não se esqueça de utilizar um tema fiilho, assim você evita perder suas customizações em caso de updates
 
 4. Modifique o código conforme sua necessidade e bom uso
+
+5. Você é livre para criar seu próprio plugin e implementar esta funcionalidade, boa sorte e bons estudos
 
 
 ## Tutorial em Vídeo
